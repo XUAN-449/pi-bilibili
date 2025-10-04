@@ -6,7 +6,14 @@
 上传至虚拟主机或服务器访问站点即可
 后台:域名/admin
 账号:admin
-密码:123456
+密码:admin
+
+后台账号密码保护措施
+1.将本项目的admin改为你自己想要的管理员路径（我把admin换为123后，后台就为域名/123）
+进入本项目文件的admin文件中的login.php进行修改↓
+![Image_1759553118056](https://github.com/user-attachments/assets/8ecdd163-4ff4-4723-a621-113b995ac151)
+
+
 
 
 
