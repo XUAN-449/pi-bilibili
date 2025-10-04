@@ -27,3 +27,4 @@ pi站源码类似于哔哩哔哩的简洁版
 如侵犯了本项目，请联系邮箱xcc@xc.email.cn立即下架
 ![Screenshot_20251004_121344_com microsoft emmx_edit_15937748188192](https://github.com/user-attachments/assets/8b6346e1-d6a4-4283-b0c4-4890b2486410)
 ![Screenshot_20251004_121350_com microsoft emmx_edit_15942713257462](https://github.com/user-attachments/assets/6816db1d-bfae-4c34-a046-c88103ed198d)
+后台演示![Screenshot_20251004_124233_com microsoft emmx_edit_17659669158762](https://github.com/user-attachments/assets/5381ad9d-de41-498d-ba67-7d45a40a1c51)
